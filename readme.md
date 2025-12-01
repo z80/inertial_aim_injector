@@ -12,6 +12,23 @@ The hardware override ensures that it works no matter what.
 
 ---
 
+## Target Games
+
+This override is intended to make aiming more convenient in titles lacking native inertial support:
+
+| Picture | Game | Notes |
+|------|-------|------|
+| ![Arc Raiders](docs/arc_raiders.jpg) | Arc Raiders | No native inertial aiming |
+| ![Space Marine 2](docs/space_marine_2.jpg) |Space Marine 2 | No native inertial aiming |
+| ![Horizon Zero Dawn PS4](docs/horizon_zero_dawn_ps4.jpg) |Horizon Zero Dawn (PS4) | PS5 version supports inertial aiming but the main character has been made less cute |
+| ![call of Duty: Black Ops Cold War](docs/call_of_duty_cold_war.jpg) |Call of Duty: Black Ops Cold War | No native inertial aiming |
+| ![Stellar Blade PS5](docs/stellar_blade_ps5.jpg) |Stellar Blade | No native inertial aiming, needed when shooting targets |
+
+*(More titles may be added as I find out the intertial aiming status)*
+
+---
+
+
 ## 📂 Project Structure
 
 - **`firmware/`**  
@@ -51,21 +68,6 @@ This means injected signals must account for asymmetric thresholds to achieve sm
 
 ---
 
-## Target Games
-
-This override is intended to make aiming more convenient in titles lacking native inertial support:
-
-| Game | Notes |
-|------|-------|
-| Arc Raiders | No native inertial aiming |
-| Space Marine 2 | No native inertial aiming |
-| Horizon Zero Dawn (PS4) | PS5 version supports inertial aiming but the main character has been made less cute |
-| Call of Duty: Black Ops Cold War | No native inertial aiming |
-| Stellar Blade | No native inertial aiming, needed when shooting targets |
-
-*(More titles may be added as I find out the intertial aiming status)*
-
----
 
 ## Disclaimer
 
