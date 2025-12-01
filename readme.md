@@ -4,6 +4,26 @@
 |---------|---------|
 | ![Image A](docs/01.jpg) | ![Image B](docs/02.jpg) |
 
+Constant overshooting. Frustrating undershooting. The endless struggle to place the crosshair exactly on target.  Thumbsticks that refuse to obey your intent.  Another great game launches - only for you to discover it does not support inertial aiming. 
+
+Looks familiar?  
+
+Scenes like these are happening all over the galazy right now!
+
+But there is a way forward. 
+Forget the fight against clumsy thumbsticks. 
+Embrace inertial aiming override.  
+
+Play on par with keyboard and mouse players.  
+Achieve precision where there was chaos.  
+Experience smooth control where there was frustration.  
+Unlock faster reaction times with natural motion input.  
+
+Spread managed accuracy across every battlefield.  
+Use the inertial aiming override device.  
+Leave the thumbstick struggle behind.
+
+
 
 This repository contains a prototype hardware/firmware project that **overrides the internal thumbstick signals of a PlayStation DualSense controller** using an external inertial sensor (BMI085 IMU).  
 The goal: enable **inertial aiming** in games that do not natively support it, by forcing thumbstick input derived from gyroscope/accelerometer data.
