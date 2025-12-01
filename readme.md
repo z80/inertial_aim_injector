@@ -94,7 +94,7 @@ This means injected signals must account for asymmetric thresholds to achieve sm
 
 ## Disclaimer
 
-This is a **prototype project – not a finished product**.  
+This is a **prototype project - not a finished product**.  
 - Built for personal experimentation and proof‑of‑concept.  
 - If you want to reproduce or extend it, more copies can be made.  
 - For compactness and convenience, a **single‑board override design** is recommended (instead of the current 3‑board stack).  
@@ -112,13 +112,18 @@ Use at your own risk. This project is not affiliated with Sony or PlayStation.
 
 ---
 
-## License
-
-Choose a license that fits your goals (MIT for permissive use, GPL for copyleft).  
-Make sure to include it in the repository root.
-
----
-
 ## Project Status
 
 Prototype stage. Contributions, forks, and experiments are encouraged!
+
+---
+
+## Get Involved
+
+This project is still in its prototype stage, but curiosity and experimentation are what keep it alive.  
+If the idea of overriding thumbstick signals with inertial aiming sparks your interest, I’d love to hear from you.  
+
+Feel free to open an issue, share your thoughts, or suggest improvements.  
+Even a simple "I’d like to try this" helps gauge whether others find value in the concept.  
+Your feedback will shape whether this remains a one‑off experiment or grows into something more refined.
+
