@@ -4,9 +4,9 @@
 |---------|---------|
 | ![Image A](docs/01.jpg) | ![Image B](docs/02.jpg) |
 
-Constant overshooting?
-Frustrating undershooting?
-The endless struggle to place the crosshair exactly on target?
+Constant overshooting? 
+Frustrating undershooting? 
+The endless struggle to place the crosshair exactly on target? 
 Thumbsticks that refuse to obey your intent? Another great game launches - only for you to discover it does not support inertial aiming? 
 
 Looks familiar?  
