@@ -4,11 +4,14 @@
 |---------|---------|
 | ![Image A](docs/01.jpg) | ![Image B](docs/02.jpg) |
 
-Constant overshooting. Frustrating undershooting. The endless struggle to place the crosshair exactly on target.  Thumbsticks that refuse to obey your intent.  Another great game launches - only for you to discover it does not support inertial aiming. 
+Constant overshooting?
+Frustrating undershooting?
+The endless struggle to place the crosshair exactly on target?
+Thumbsticks that refuse to obey your intent? Another great game launches - only for you to discover it does not support inertial aiming? 
 
 Looks familiar?  
 
-Scenes like these are happening all over the galazy right now!
+**Scenes like these are happening all over the galaxy right now!**
 
 But there is a way forward. 
 Forget the fight against clumsy thumbsticks. 
@@ -19,7 +22,7 @@ Achieve precision where there was chaos.
 Experience smooth control where there was frustration.  
 Unlock faster reaction times with natural motion input.  
 
-Spread managed accuracy across every battlefield.  
+Spread inertial aiming accuracy across every battlefield.  
 Use the inertial aiming override device.  
 Leave the thumbstick struggle behind.
 
