@@ -42,6 +42,7 @@ This override is intended to make aiming more convenient in titles lacking nativ
 | Picture | Game | Notes |
 |------|-------|------|
 | ![Arc Raiders](docs/arc_raiders.jpg) | Arc Raiders | No native inertial aiming |
+| ![Far Cry 5](docs/far_cry_5.jpg) | Far Cry 5 | No native inertial aiming support neither |
 | ![Space Marine 2](docs/space_marine_2.jpg) |Space Marine 2 | No native inertial aiming |
 | ![Horizon Zero Dawn PS4](docs/horizon_zero_dawn_ps4.jpg) |Horizon Zero Dawn (PS4) | PS5 version supports inertial aiming but the main character has been made less cute |
 | ![call of Duty: Black Ops Cold War](docs/call_of_duty_cold_war.jpg) |Call of Duty: Black Ops Cold War | No native inertial aiming |
